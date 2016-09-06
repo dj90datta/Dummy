@@ -5,16 +5,16 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
 	<artifactId>helloworld</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule helloworld Application</name>
 
 
 <scm>
-    <url>https://github.com/dj90datta/Dummy</url>
-    <connection>scm:git:ssh://git@github.com/dj90datta/Dummy.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/dj90datta/Dummy.git</developerConnection>
-</scm>
+		<url>https://github.com/dj90datta/Dummy</url>
+		<connection>scm:git:git://github.com/dj90datta/Dummy.git</connection>
+		<developerConnection>scm:git:git@github.com:dj90datta/Dummy.git</developerConnection>
+	</scm>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
