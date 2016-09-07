@@ -11,9 +11,9 @@
 
 
 <scm>
-		<url>https://github.com/dj90datta/Dummy</url>
-		<connection>scm:git:git@github.com:dj90datta/Dummy.git</connection>
-		<developerConnection>scm:git:git@github.com:dj90datta/Dummy.git</developerConnection>
+	<connection>scm:git:https://github.com/dj90datta/Dummy.git</connection>
+               <developerConnection>scm:git:https://github.com/dj90datta/Dummy.git</developerConnection>
+               <url>https://github.com/dj90datta/Dummy</url>
 		<tag>HEAD</tag>
 	</scm>
 
