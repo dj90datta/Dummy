@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
 	<artifactId>helloworld</artifactId>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>1.0.7-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule helloworld Application</name>
 
@@ -204,6 +204,16 @@
 	
 	
 
+<distributionManagement>
+    <repository>
+      <id>repo</id>
+      <url>https://github.com/dj90datta/releases</url>
+    </repository>
+    <snapshotRepository>
+      <id>snapshot-repo</id>
+      <url>https://github.com/dj90datta/releases</url>
+    </snapshotRepository>
+  </distributionManagement>
 
 
 	<!-- <distributionManagement> <repository> <id>nexus</id> <name>Releases</name> 
