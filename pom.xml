@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
 	<artifactId>helloworld</artifactId>
-	<version>1.0.9-SNAPSHOT</version>
+	<version>1.0.10-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule helloworld Application</name>
 
@@ -207,11 +207,11 @@
 <distributionManagement>
     <repository>
       <id>repo</id>
-      <url>scpexe:git@github.com:dj90datta/releases.git</url>
+      <url>scpexe:git:git@github.com:dj90datta/releases.git</url>
     </repository>
     <snapshotRepository>
       <id>snapshot-repo</id>
-      <url>scpexe:git@github.com:dj90datta/releases.git</url>
+      <url>scpexe:git:git@github.com:dj90datta/releases.git</url>
     </snapshotRepository>
   </distributionManagement>
 
