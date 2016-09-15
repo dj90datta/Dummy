@@ -207,11 +207,11 @@
 <distributionManagement>
     <repository>
       <id>repo</id>
-      <url>https://github.com/dj90datta/releases</url>
+      <url>scm:git:git@github.com:dj90datta/releases.git</url>
     </repository>
     <snapshotRepository>
       <id>snapshot-repo</id>
-      <url>https://github.com/dj90datta/releases</url>
+      <url>scm:git:git@github.com:dj90datta/releases.git</url>
     </snapshotRepository>
   </distributionManagement>
 
